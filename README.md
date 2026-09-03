@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trendzza/macclean/main/MacClean/AppIcon.iconset/icon_256x256.png" width="128" height="128" alt="MacClean by Trendzza" style="border-radius: 28px; box-shadow: 0 12px 32px rgba(0,0,0,0.15);"/>
+<img src="https://raw.githubusercontent.com/trendzza/macclean-releases/main/assets/icon.png" width="128" height="128" alt="MacClean by Trendzza" style="border-radius: 28px; box-shadow: 0 12px 32px rgba(0,0,0,0.15);"/>
 
 # MacClean
 ### The surgical macOS cleaner built for speed, silence, and zero leftovers.
